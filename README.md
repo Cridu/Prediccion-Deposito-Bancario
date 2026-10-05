@@ -13,18 +13,13 @@ P1_AA_2026/
 ├── notebook_principal.ipynb   # EDA, HPO, selección de modelo
 ├── notebook_predicciones.ipynb  # Carga modelo final y predicciones competición
 ├── mystreamlit.py             # App Streamlit para despliegue
-├── modelo_final.joblib        # Modelo entrenado (generado al ejecutar el notebook)
-├── predicciones.csv           # Predicciones competición (generado al ejecutar)
 ├── .gitignore
 └── README.md
 ```
  
 ## Ficheros de datos
-- `bank_00-99.pkl` — datos de entrenamiento/evaluación
-- `bank_competition.pkl` — datos de competición (sin target)
- 
-## Semilla
-NIA: 100522196 → `SEED = 100522196 % (2**32)`
+datos de entrenamiento/evaluación
+datos de competición (sin target)
  
 ## Ejecución
 ```bash
