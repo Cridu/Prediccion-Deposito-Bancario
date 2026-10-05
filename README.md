@@ -29,3 +29,6 @@ jupyter notebook notebook_principal.ipynb
 # App Streamlit
 streamlit run mystreamlit.py
 ```
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/dbbba386-1cca-4bca-b72a-992950006236" />
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/7b694dec-d68e-490f-bde4-f3aa2c3f13a8" />
+
